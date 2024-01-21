@@ -17,7 +17,7 @@
         <project.version>1.0-SNAPSHOT</project.version>
 
         <mainClass>
-
+            software.moneyCalculator.Main
         </mainClass>
     </properties>
     <build>
